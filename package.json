@@ -1,0 +1,11 @@
+{
+  "name": "desafio_02_filesistem",
+  "version": "1.0.0",
+  "description": "Desafio 02 backend coder FileSistem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monti Francisco Javier",
+  "license": "ISC"
+}
