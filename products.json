@@ -1,1 +1,17 @@
-[{"title":"Pencil","description":"Black pencil","price":150,"code":"d213123ada","thumbnail":"url://images","stock":10,"id":5},{"title":"tshirt","description":"Black tshirt","price":300,"code":"asdas","thumbnail":"url://images","stock":10,"id":4}]
+[{
+    "title": "tshirt",
+    "description": "Black tshirt",
+    "price": 300,
+    "code": "asdas",
+    "thumbnail": "url://images",
+    "stock": 10,
+    "id": 2
+}, {
+    "title": "Pencil",
+    "description": "Black pencil",
+    "price": 150,
+    "code": "dsada",
+    "thumbnail": "url://images",
+    "stock": 10,
+    "id": 4
+}]
